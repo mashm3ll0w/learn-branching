@@ -1,3 +1,17 @@
 h1{
-  color: maroon;
+  color: grey;
+}
+
+h2{
+  color: azure;
+  font-style: italic;
+}
+
+p{
+  color: darkgrey;
+}
+
+body{
+  text-align: center;
+  background-color: darkslategrey;
 }
